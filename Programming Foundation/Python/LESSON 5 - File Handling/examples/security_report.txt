@@ -1,0 +1,7 @@
+
+CYBERSECURITY ACADEMY
+SECURITY REPORT
+    
+Target: 192.168.1.10
+Status: Scan Completed
+We append to add new thing
