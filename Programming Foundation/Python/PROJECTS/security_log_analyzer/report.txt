@@ -1,0 +1,7 @@
+===== SECURITY LOG ANALYSIS =====
+
+Failed login: admin
+Failed login: root
+Failed login: admin
+--------------------------------
+Total Failed Attempts: 3
