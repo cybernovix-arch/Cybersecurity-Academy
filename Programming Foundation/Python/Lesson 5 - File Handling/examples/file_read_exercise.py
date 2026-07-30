@@ -1,6 +1,0 @@
-file = open("security_report.txt", "r")
-content = file.read()
-print("===== SECURITY REPORT CONTENT =====")
-print(content)
-print("===================================")
-file.close()
